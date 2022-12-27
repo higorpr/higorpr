@@ -1,5 +1,11 @@
 ### Hi there, I'm Higor 👋
 
+#### Some facts about me:
+
+-
+-
+- I have an Akita Inu: Kazu :dog:
+
 <!--
 **higorpr/higorpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
