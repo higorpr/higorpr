@@ -2,8 +2,9 @@
 
 #### Some facts about me:
 
--
--
+- I have been a bootcamp student at Driven Education since August 2022 to become a Full Stack Developer 💻
+- I completed 2 Udacity's Nanodegree Programs in Data Science and Machine Learning 📕
+- I have a Masters Degree in Aerospace Engineering ✈️
 - I have an Akita Inu: Kazu :dog:
 
 <!--
