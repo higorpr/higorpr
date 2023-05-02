@@ -25,7 +25,7 @@ My name is Higor de Faria, but feel free to call me **Higor**. I'm a full stack 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,nodejs,ts,express,aws,python,postgres,mongodb,prisma,redis,jest,git,github,githubactions,nestjs,docker,nginx,latex)](https://skillicons.dev)
 
 
 <!--
