@@ -10,7 +10,7 @@ My name is Higor de Faria, but feel free to call me **Higor**. I'm a full stack 
 - I studied Software Engineering / Web Development at Driven Education 💻
 - I completed 2 Udacity's Nanodegree Programs in Data Science and Machine Learning 📕
 - I have a Masters Degree in Aerospace Engineering at ITA :airplane:
-- I graduated as a Naval Architect at UFRJ 🚢
+- I graduated as a Naval Architect at UFRJ 🛳️
 - I have an Akita Inu called Kazu :dog:
 
 ### My Languages and Tools:
