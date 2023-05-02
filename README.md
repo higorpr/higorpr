@@ -3,7 +3,7 @@
 
 ### Hello there! I'm Higor 👋
 
-My name is Higor de Faria, but feel free to call me **Higor**. I'm a full stack developer in training at Driven Education. I'm also a Naval Architect and an Aerospace Engineer who is very interested in Data Science.
+My name is Higor de Faria, but feel free to call me **Higor**. I'm a software engineer / full-stack developer. I'm also a Naval Architect and an Aerospace Engineer who is very interested in technology and how they impact our lives.
 
 #### Some (fun) facts about me:
 
