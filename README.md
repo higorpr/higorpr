@@ -15,7 +15,7 @@ My name is Higor de Faria, but feel free to call me **Higor**. I'm a software en
 
 ### My Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,nodejs,ts,express,aws,python,postgres,mongodb,prisma,redis,jest,git,github,githubactions,nestjs,docker,nginx,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,js,html,css,js,react,nodejs,ts,express,aws,python,postgres,mongodb,prisma,redis,jest,git,github,githubactions,nestjs,docker,nginx,latex)](https://skillicons.dev)
 
 
 <!--
